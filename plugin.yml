@@ -1,0 +1,9 @@
+name: "AutoMine"
+version: "1.0.0"
+main: "AutoMine"
+api: "5.0.0"
+
+website: "https://vk.com/bedrocktimestudio"
+author: "BedrockTimeStudio"
+
+load: "STARTUP"
